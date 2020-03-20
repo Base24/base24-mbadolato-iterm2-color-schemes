@@ -17,10 +17,10 @@ base0E: 8b5990
 base0F: 5a2600
 base10: 3e3610
 base11: 1f1b08
-base12: b1c93a
-base13: abb8ff
-base14: ffe449
+base12: ff9148
+base13: ffe449
+base14: b1c93a
 base15: ffbb51
-base16: ff9148
+base16: abb8ff
 base17: fe9fff
 scheme: Medallion

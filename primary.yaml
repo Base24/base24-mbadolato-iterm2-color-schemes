@@ -17,10 +17,10 @@ base0E: db4437
 base0F: 6d221b
 base10: '000000'
 base11: '000000'
-base12: 0f9d58
-base13: 4285f4
-base14: f4b400
+base12: db4437
+base13: f4b400
+base14: 0f9d58
 base15: 0f9d58
-base16: db4437
+base16: 4285f4
 base17: 4285f4
 scheme: primary

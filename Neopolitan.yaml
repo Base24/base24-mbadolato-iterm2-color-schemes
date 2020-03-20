@@ -17,10 +17,10 @@ base0E: ff0080
 base0F: '400000'
 base10: '000000'
 base11: '000000'
-base12: 61ce3c
-base13: 253b76
-base14: fbde2d
+base12: '800000'
+base13: fbde2d
+base14: 61ce3c
 base15: 8da6ce
-base16: '800000'
+base16: 253b76
 base17: ff0080
 scheme: Neopolitan

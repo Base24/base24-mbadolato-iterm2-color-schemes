@@ -17,10 +17,10 @@ base0E: '950061'
 base0F: 5d0000
 base10: '383838'
 base11: 1c1c1c
-base12: 00bb00
-base13: 0000bb
-base14: e7b000
+base12: bb0000
+base13: e7b000
+base14: 00bb00
 base15: 55ffff
-base16: bb0000
+base16: 0000bb
 base17: ff55ff
 scheme: Grass

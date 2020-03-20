@@ -17,10 +17,10 @@ base0E: ff005d
 base0F: 7f0000
 base10: '383838'
 base11: 1c1c1c
-base12: 3bcf1d
-base13: 5555ff
-base14: ecc809
+base12: f40d17
+base13: ecc809
+base14: 3bcf1d
 base15: 6ae3f9
-base16: f40d17
+base16: 5555ff
 base17: ff55ff
 scheme: Cobalt2

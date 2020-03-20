@@ -17,10 +17,10 @@ base0E: bb00bb
 base0F: 7f1f00
 base10: '383838'
 base11: 1c1c1c
-base12: 00bb00
-base13: 0071ae
-base14: e7b000
+base12: bb0000
+base13: e7b000
+base14: 00bb00
 base15: 55ffff
-base16: bb0000
+base16: 0071ae
 base17: ff55ff
 scheme: Red Sands

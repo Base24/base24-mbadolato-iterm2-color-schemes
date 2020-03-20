@@ -17,10 +17,10 @@ base0E: ce6fda
 base0F: 5d0000
 base10: '383838'
 base11: 1c1c1c
-base12: 7df61c
-base13: 62cae7
-base14: ffff55
+base12: ff5555
+base13: ffff55
+base14: 7df61c
 base15: 00ccd7
-base16: ff5555
+base16: 62cae7
 base17: ff9af5
 scheme: NightLion v2

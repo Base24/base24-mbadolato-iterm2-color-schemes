@@ -17,10 +17,10 @@ base0E: 9933cc
 base0F: 7f3300
 base10: '383838'
 base11: 1c1c1c
-base12: 00ff00
-base13: 0000ff
-base14: ffff00
+base12: ff0000
+base13: ffff00
+base14: 00ff00
 base15: 00ffff
-base16: ff0000
+base16: 0000ff
 base17: ff00ff
 scheme: VibrantInk

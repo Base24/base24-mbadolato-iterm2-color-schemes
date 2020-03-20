@@ -17,10 +17,10 @@ base0E: ff79c6
 base0F: 7f2a2a
 base10: '383838'
 base11: 1c1c1c
-base12: 50fa7b
-base13: bd93f9
-base14: f1fa8c
+base12: ff5555
+base13: f1fa8c
+base14: 50fa7b
 base15: 8be9fd
-base16: ff5555
+base16: bd93f9
 base17: ff79c6
 scheme: Dracula

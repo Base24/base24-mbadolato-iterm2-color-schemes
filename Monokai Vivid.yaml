@@ -17,10 +17,10 @@ base0E: f800f8
 base0F: 7d141a
 base10: '565656'
 base11: 2b2b2b
-base12: b0e05e
-base13: 0442fe
-base14: fef26c
+base12: f5669c
+base13: fef26c
+base14: b0e05e
 base15: 50cdfe
-base16: f5669c
+base16: 0442fe
 base17: f200f5
 scheme: Monokai Vivid

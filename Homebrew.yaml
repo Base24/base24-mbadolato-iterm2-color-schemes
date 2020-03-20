@@ -17,10 +17,10 @@ base0E: b200b2
 base0F: 4c0000
 base10: '444444'
 base11: '222222'
-base12: 00d900
-base13: 0000ff
-base14: e5e500
+base12: e50000
+base13: e5e500
+base14: 00d900
 base15: 00e5e5
-base16: e50000
+base16: 0000ff
 base17: e500e5
 scheme: Homebrew

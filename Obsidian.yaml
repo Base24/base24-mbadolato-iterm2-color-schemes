@@ -17,10 +17,10 @@ base0E: bb00bb
 base0F: '520000'
 base10: '383838'
 base11: 1c1c1c
-base12: 92c763
-base13: a0d6ff
-base14: fef773
+base12: ff0003
+base13: fef773
+base14: 92c763
 base15: 55ffff
-base16: ff0003
+base16: a0d6ff
 base17: ff55ff
 scheme: Obsidian

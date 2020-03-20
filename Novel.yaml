@@ -17,10 +17,10 @@ base0E: cc00cc
 base0F: '660000'
 base10: '545454'
 base11: 2a2a2a
-base12: 009600
-base13: 0000cc
-base14: d06b00
+base12: cc0000
+base13: d06b00
+base14: 009600
 base15: 0086cb
-base16: cc0000
+base16: 0000cc
 base17: cc00cc
 scheme: Novel

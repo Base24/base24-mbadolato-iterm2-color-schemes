@@ -17,10 +17,10 @@ base0E: bc4f5a
 base0F: 591d28
 base10: 5a5a5a
 base11: 2d2d2d
-base12: 80c46f
-base13: 4095ff
-base14: ffeb62
+base12: f24840
+base13: ffeb62
+base14: 80c46f
 base15: 52ccbd
-base16: f24840
+base16: 4095ff
 base17: fb5175
 scheme: Chalk

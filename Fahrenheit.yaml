@@ -17,10 +17,10 @@ base0E: 734b4c
 base0F: 664f3a
 base10: '000000'
 base11: '000000'
-base12: cb724c
-base13: cb4905
-base14: fd9f4d
+base12: fdce9f
+base13: fd9f4d
+base14: cb724c
 base15: fecf4d
-base16: fdce9f
+base16: cb4905
 base17: 4d729f
 scheme: Fahrenheit

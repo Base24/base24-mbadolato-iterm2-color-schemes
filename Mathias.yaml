@@ -17,10 +17,10 @@ base0E: fa2573
 base0F: '721111'
 base10: '383838'
 base11: 1c1c1c
-base12: 55ff55
-base13: 5555ff
-base14: ffff55
+base12: ff5555
+base13: ffff55
+base14: 55ff55
 base15: 55ffff
-base16: ff5555
+base16: 5555ff
 base17: ff55ff
 scheme: Mathias

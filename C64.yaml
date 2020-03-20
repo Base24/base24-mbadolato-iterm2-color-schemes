@@ -17,10 +17,10 @@ base0E: 8b3f96
 base0F: 441c19
 base10: '000000'
 base11: '000000'
-base12: 55a049
-base13: 40318d
-base14: bfce72
+base12: '883932'
+base13: bfce72
+base14: 55a049
 base15: 67b6bd
-base16: '883932'
+base16: 40318d
 base17: 8b3f96
 scheme: C64

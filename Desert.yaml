@@ -17,10 +17,10 @@ base0E: ffdead
 base0F: 7f1515
 base10: '383838'
 base11: 1c1c1c
-base12: 55ff55
-base13: 87ceff
-base14: ffff55
+base12: ff5555
+base13: ffff55
+base14: 55ff55
 base15: ffd700
-base16: ff5555
+base16: 87ceff
 base17: ff55ff
 scheme: Desert

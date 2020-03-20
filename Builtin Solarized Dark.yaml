@@ -17,10 +17,10 @@ base0E: d33682
 base0F: 6e1917
 base10: 001c24
 base11: 000e12
-base12: 586e75
-base13: '839496'
-base14: 657b83
+base12: cb4b16
+base13: 657b83
+base14: 586e75
 base15: 93a1a1
-base16: cb4b16
+base16: '839496'
 base17: 6c71c4
 scheme: Builtin Solarized Dark

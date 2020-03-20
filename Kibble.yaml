@@ -17,10 +17,10 @@ base0E: 8400ff
 base0F: '630018'
 base10: 3c3c3c
 base11: 1e1e1e
-base12: 6ce05c
-base13: 97a4f7
-base14: f3f79e
+base12: f01578
+base13: f3f79e
+base14: 6ce05c
 base15: 68f2e0
-base16: f01578
+base16: 97a4f7
 base17: c495f0
 scheme: Kibble
