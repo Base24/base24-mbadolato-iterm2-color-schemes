@@ -1,0 +1,9 @@
+# Ignore themes that now have their own repos
+Brogrammer.yaml
+Espresso.yaml
+Framer.yaml
+Github.yaml
+
+# Ignore base16 themes and corrupted themes
+/b16*
+/warn0s*
