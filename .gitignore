@@ -3,6 +3,9 @@ Brogrammer.yaml
 Espresso.yaml
 Framer.yaml
 Github.yaml
+Chalk.yaml
+Flat.yaml
+Hardcore.yaml
 
 # Ignore base16 themes and corrupted themes
 /b16*
